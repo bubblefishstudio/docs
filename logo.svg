@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="500"
+   height="500"
+   viewBox="0 0 132.29167 132.29167"
+   version="1.1"
+   id="svg11322"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="drawing_soft_blue.svg"
+   inkscape:export-filename="/home/matteo/Documenti/Projects/BubbleFishStudio/Logos/styled/logo1.png"
+   inkscape:export-xdpi="576"
+   inkscape:export-ydpi="576"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     id="namedview11324"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="1.1735503"
+     inkscape:cx="175.10967"
+     inkscape:cy="244.98311"
+     inkscape:window-width="1920"
+     inkscape:window-height="980"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g41444"
+     inkscape:document-rotation="0"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-nodes="false"
+     inkscape:snap-others="false"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-bbox-midpoints="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     units="px"
+     showborder="true"
+     inkscape:showpageshadow="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid835" />
+    <sodipodi:guide
+       position="66.145833,116.41667"
+       orientation="1,0"
+       id="guide843" />
+    <sodipodi:guide
+       position="-31.750001,66.145835"
+       orientation="0,-1"
+       id="guide7961" />
+    <sodipodi:guide
+       position="-13.229167,82.020835"
+       orientation="0,-1"
+       id="guide907" />
+  </sodipodi:namedview>
+  <defs
+     id="defs11319" />
+  <g
+     inkscape:label="logo"
+     inkscape:groupmode="layer"
+     id="g41444"
+     style="display:inline">
+    <circle
+       style="fill:#6a74ff;fill-opacity:0.997669;fill-rule:evenodd;stroke:#333333;stroke-width:2.61979;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.996078;paint-order:normal"
+       id="circle41434"
+       cx="66.145836"
+       cy="66.145836"
+       r="64.835938" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.41377;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect41436"
+       width="71.4375"
+       height="15.875"
+       x="29.104166"
+       y="26.458334"
+       inkscape:export-filename="/home/matteo/Documenti/Projects/BubbleFishStudio/Logos/styled/drawing.png"
+       inkscape:export-xdpi="98.300003"
+       inkscape:export-ydpi="98.300003" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.10886;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect41438"
+       width="15.875"
+       height="63.5"
+       x="76.729172"
+       y="50.270836"
+       inkscape:transform-center-x="0.65127595"
+       inkscape:transform-center-y="-1.0626946" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.38246;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle41440"
+       cx="-51.59375"
+       cy="67.46875"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/matteo/Documenti/Projects/BubbleFishStudio/Logos/styled/bright_logo.png"
+       inkscape:export-xdpi="98.300003"
+       inkscape:export-ydpi="98.300003"
+       r="14.552084" />
+  </g>
+</svg>
